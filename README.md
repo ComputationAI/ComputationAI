@@ -19,9 +19,17 @@ We build information products and projects around artificial intelligence, compu
 
 Projects will be published here after intellectual-property, client-authorization, and information-security review.
 
+## GitHub
+
+- [Company project index](https://github.com/ComputationAI/company-index)
+- [Public company qualifications](https://github.com/ComputationAI/public-qualifications)
+
+公开仓库按公司资料、资质、网站和技术项目分类；合同、财务、客户交付与未公开研发仅存放在私有仓库，高敏个人信息与密钥不存放在 GitHub。
+
+Public repositories are organized by company information, qualifications, website, and technical projects. Contracts, finance, client delivery, and unreleased R&D remain private; credentials and highly sensitive personal data are not stored on GitHub.
+
 ## Contact
 
 公司官网与公开联系渠道确认后补充。
 
 Official website and public contact channels will be added after confirmation.
-
